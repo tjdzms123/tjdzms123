@@ -1,12 +1,14 @@
-- 👋 Hi, I’m 김성근
-- 👀 I’m interested in 웹 개발
-- 🌱 I’m currently learning react, node.js...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  
+# KSG 
+📌 블로그 : [나의 개발일지](https://tjdzms123.github.io/)
+<br/>
+<br/>
+### most interested in
+<p herf="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs"/>
+</p>
 
-<!---
-tjdzms123/tjdzms123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdzms123&layout=compact&theme=dark) 
+</div> 
