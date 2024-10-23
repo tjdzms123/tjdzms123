@@ -6,7 +6,7 @@
 <br/>
 ### most interested in
 <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgresql,csharp"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgresql,c#"/>
 </p>
 
 
